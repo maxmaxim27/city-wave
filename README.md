@@ -2,7 +2,7 @@
 
 ### Overview
 
-TravelPlanner is an innovative travel planning app that allows users to create and personalize multi-destination itineraries quickly and easily. Users can set a departure airport, choose a travel duration (7 or 10 days), and receive an itinerary that includes flights, city information, main attractions, and booking options directly through the app.
+CityWave is an innovative travel planning app that allows users to create and personalize multi-destination itineraries quickly and easily. Users can set a departure airport, choose a travel duration (7 or 10 days), and receive an itinerary that includes flights, city information, main attractions, and booking options directly through the app.
 
 ### Features
 
